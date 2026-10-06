@@ -49,16 +49,6 @@ Run the application:
 py notepad.py
 ```
 
-## Project Structure
-
-```text
-Notepad/
-│
-├── notepad.py
-├── README.md
-└── .gitignore
-```
-
 ## Author
 
 SHEMIYYA SHERIN
